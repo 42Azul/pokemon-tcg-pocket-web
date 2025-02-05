@@ -6,22 +6,6 @@
 @tailwind utilities;
 
 
-/* Tinder swipe animations with blur */
-.tinder-card {
-  transition: transform 0.3s ease, opacity 0.3s ease, filter 0.3s ease;
-}
-
-.tinder-card.left {
-  transform: translateX(-110%) rotate(-10deg);
-  filter: blur(2px);
-  opacity: 0;
-}
-
-.tinder-card.right {
-  transform: translateX(110%) rotate(10deg);
-  filter: blur(2px);
-  opacity: 0;
-}
 
 
 
