@@ -1,0 +1,3568 @@
+{
+  "A1": {
+    "name": "A1",
+    "cards": [
+      {
+        "code": "A1/1",
+        "cardName": "Bulbasaur",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/2",
+        "cardName": "Ivysaur",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/3",
+        "cardName": "Venusaur",
+        "rarity": "◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/4",
+        "cardName": "Venusaur ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/5",
+        "cardName": "Caterpie",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/6",
+        "cardName": "Metapod",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/7",
+        "cardName": "Butterfree",
+        "rarity": "◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/8",
+        "cardName": "Weedle",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/9",
+        "cardName": "Kakuna",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/10",
+        "cardName": "Beedrill",
+        "rarity": "◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/11",
+        "cardName": "Oddish",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/12",
+        "cardName": "Gloom",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/13",
+        "cardName": "Vileplume",
+        "rarity": "◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/14",
+        "cardName": "Paras",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/15",
+        "cardName": "Parasect",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/16",
+        "cardName": "Venonat",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/17",
+        "cardName": "Venomoth",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/18",
+        "cardName": "Bellsprout",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/19",
+        "cardName": "Weepinbell",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/20",
+        "cardName": "Victreebel",
+        "rarity": "◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/21",
+        "cardName": "Exeggcute",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/22",
+        "cardName": "Exeggutor",
+        "rarity": "◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/23",
+        "cardName": "Exeggutor ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/24",
+        "cardName": "Tangela",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/25",
+        "cardName": "Scyther",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/26",
+        "cardName": "Pinsir",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/27",
+        "cardName": "Cottonee",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/28",
+        "cardName": "Whimsicott",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/29",
+        "cardName": "Petilil",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/30",
+        "cardName": "Lilligant",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/31",
+        "cardName": "Skiddo",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/32",
+        "cardName": "Gogoat",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/33",
+        "cardName": "Charmander",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/34",
+        "cardName": "Charmeleon",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/35",
+        "cardName": "Charizard",
+        "rarity": "◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/36",
+        "cardName": "Charizard ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/37",
+        "cardName": "Vulpix",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/38",
+        "cardName": "Ninetales",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/39",
+        "cardName": "Growlithe",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/40",
+        "cardName": "Arcanine",
+        "rarity": "◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/41",
+        "cardName": "Arcanine ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/42",
+        "cardName": "Ponyta",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/43",
+        "cardName": "Rapidash",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/44",
+        "cardName": "Magmar",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/45",
+        "cardName": "Flareon",
+        "rarity": "◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/46",
+        "cardName": "Moltres",
+        "rarity": "◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/47",
+        "cardName": "Moltres ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/48",
+        "cardName": "Heatmor",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/49",
+        "cardName": "Salandit",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/50",
+        "cardName": "Salazzle",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/51",
+        "cardName": "Sizzlipede",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/52",
+        "cardName": "Centiskorch",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/53",
+        "cardName": "Squirtle",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/54",
+        "cardName": "Wartortle",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/55",
+        "cardName": "Blastoise",
+        "rarity": "◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/56",
+        "cardName": "Blastoise ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/57",
+        "cardName": "Psyduck",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/58",
+        "cardName": "Golduck",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/59",
+        "cardName": "Poliwag",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/60",
+        "cardName": "Poliwhirl",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/61",
+        "cardName": "Poliwrath",
+        "rarity": "◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/62",
+        "cardName": "Tentacool",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/63",
+        "cardName": "Tentacruel",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/64",
+        "cardName": "Seel",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/65",
+        "cardName": "Dewgong",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/66",
+        "cardName": "Shellder",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/67",
+        "cardName": "Cloyster",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/68",
+        "cardName": "Krabby",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/69",
+        "cardName": "Kingler",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/70",
+        "cardName": "Horsea",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/71",
+        "cardName": "Seadra",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/72",
+        "cardName": "Goldeen",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/73",
+        "cardName": "Seaking",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/74",
+        "cardName": "Staryu",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/75",
+        "cardName": "Starmie",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/76",
+        "cardName": "Starmie ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/77",
+        "cardName": "Magikarp",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/78",
+        "cardName": "Gyarados",
+        "rarity": "◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/79",
+        "cardName": "Lapras",
+        "rarity": "◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/80",
+        "cardName": "Vaporeon",
+        "rarity": "◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/81",
+        "cardName": "Omanyte",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/82",
+        "cardName": "Omastar",
+        "rarity": "◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/83",
+        "cardName": "Articuno",
+        "rarity": "◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/84",
+        "cardName": "Articuno ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/85",
+        "cardName": "Ducklett",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/86",
+        "cardName": "Swanna",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/87",
+        "cardName": "Froakie",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/88",
+        "cardName": "Frogadier",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/89",
+        "cardName": "Greninja",
+        "rarity": "◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/90",
+        "cardName": "Pyukumuku",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/91",
+        "cardName": "Bruxish",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/92",
+        "cardName": "Snom",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/93",
+        "cardName": "Frosmoth",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/94",
+        "cardName": "Pikachu",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/95",
+        "cardName": "Raichu",
+        "rarity": "◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/96",
+        "cardName": "Pikachu ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/97",
+        "cardName": "Magnemite",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/98",
+        "cardName": "Magneton",
+        "rarity": "◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/99",
+        "cardName": "Voltorb",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/100",
+        "cardName": "Electrode",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/101",
+        "cardName": "Electabuzz",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/102",
+        "cardName": "Jolteon",
+        "rarity": "◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/103",
+        "cardName": "Zapdos",
+        "rarity": "◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/104",
+        "cardName": "Zapdos ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/105",
+        "cardName": "Blitzle",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/106",
+        "cardName": "Zebstrika",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/107",
+        "cardName": "Tynamo",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/108",
+        "cardName": "Eelektrik",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/109",
+        "cardName": "Eelektross",
+        "rarity": "◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/110",
+        "cardName": "Helioptile",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/111",
+        "cardName": "Heliolisk",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/112",
+        "cardName": "Pincurchin",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/113",
+        "cardName": "Clefairy",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/114",
+        "cardName": "Clefable",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/115",
+        "cardName": "Abra",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/116",
+        "cardName": "Kadabra",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/117",
+        "cardName": "Alakazam",
+        "rarity": "◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/118",
+        "cardName": "Slowpoke",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/119",
+        "cardName": "Slowbro",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/120",
+        "cardName": "Gastly",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/121",
+        "cardName": "Haunter",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/122",
+        "cardName": "Gengar",
+        "rarity": "◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/123",
+        "cardName": "Gengar ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/124",
+        "cardName": "Drowzee",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/125",
+        "cardName": "Hypno",
+        "rarity": "◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/126",
+        "cardName": "Mr. Mime",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/127",
+        "cardName": "Jynx",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/128",
+        "cardName": "Mewtwo",
+        "rarity": "◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/129",
+        "cardName": "Mewtwo ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/130",
+        "cardName": "Ralts",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/131",
+        "cardName": "Kirlia",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/132",
+        "cardName": "Gardevoir",
+        "rarity": "◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/133",
+        "cardName": "Woobat",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/134",
+        "cardName": "Swoobat",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/135",
+        "cardName": "Golett",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/136",
+        "cardName": "Golurk",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/137",
+        "cardName": "Sandshrew",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/138",
+        "cardName": "Sandslash",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/139",
+        "cardName": "Diglett",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/140",
+        "cardName": "Dugtrio",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/141",
+        "cardName": "Mankey",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/142",
+        "cardName": "Primeape",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/143",
+        "cardName": "Machop",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/144",
+        "cardName": "Machoke",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/145",
+        "cardName": "Machamp",
+        "rarity": "◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/146",
+        "cardName": "Machamp ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/147",
+        "cardName": "Geodude",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/148",
+        "cardName": "Graveler",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/149",
+        "cardName": "Golem",
+        "rarity": "◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/150",
+        "cardName": "Onix",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/151",
+        "cardName": "Cubone",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/152",
+        "cardName": "Marowak",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/153",
+        "cardName": "Marowak ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/154",
+        "cardName": "Hitmonlee",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/155",
+        "cardName": "Hitmonchan",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/156",
+        "cardName": "Rhyhorn",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/157",
+        "cardName": "Rhydon",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/158",
+        "cardName": "Kabuto",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/159",
+        "cardName": "Kabutops",
+        "rarity": "◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/160",
+        "cardName": "Mienfoo",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/161",
+        "cardName": "Mienshao",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/162",
+        "cardName": "Clobbopus",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/163",
+        "cardName": "Grapploct",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/164",
+        "cardName": "Ekans",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/165",
+        "cardName": "Arbok",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/166",
+        "cardName": "Nidoran♀",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/167",
+        "cardName": "Nidorina",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/168",
+        "cardName": "Nidoqueen",
+        "rarity": "◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/169",
+        "cardName": "Nidoran♂",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/170",
+        "cardName": "Nidorino",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/171",
+        "cardName": "Nidoking",
+        "rarity": "◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/172",
+        "cardName": "Zubat",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/173",
+        "cardName": "Golbat",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/174",
+        "cardName": "Grimer",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/175",
+        "cardName": "Muk",
+        "rarity": "◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/176",
+        "cardName": "Koffing",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/177",
+        "cardName": "Weezing",
+        "rarity": "◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/178",
+        "cardName": "Mawile",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/179",
+        "cardName": "Pawniard",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/180",
+        "cardName": "Bisharp",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/181",
+        "cardName": "Meltan",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/182",
+        "cardName": "Melmetal",
+        "rarity": "◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/183",
+        "cardName": "Dratini",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/184",
+        "cardName": "Dragonair",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/185",
+        "cardName": "Dragonite",
+        "rarity": "◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/186",
+        "cardName": "Pidgey",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/187",
+        "cardName": "Pidgeotto",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/188",
+        "cardName": "Pidgeot",
+        "rarity": "◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/189",
+        "cardName": "Rattata",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/190",
+        "cardName": "Raticate",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/191",
+        "cardName": "Spearow",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/192",
+        "cardName": "Fearow",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/193",
+        "cardName": "Jigglypuff",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/194",
+        "cardName": "Wigglytuff",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/195",
+        "cardName": "Wigglytuff ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/196",
+        "cardName": "Meowth",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/197",
+        "cardName": "Persian",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/198",
+        "cardName": "Farfetch'd",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/199",
+        "cardName": "Doduo",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/200",
+        "cardName": "Dodrio",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/201",
+        "cardName": "Lickitung",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/202",
+        "cardName": "Chansey",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/203",
+        "cardName": "Kangaskhan",
+        "rarity": "◊◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/204",
+        "cardName": "Tauros",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/205",
+        "cardName": "Ditto",
+        "rarity": "◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/206",
+        "cardName": "Eevee",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/207",
+        "cardName": "Eevee",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/208",
+        "cardName": "Eevee",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/209",
+        "cardName": "Porygon",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/210",
+        "cardName": "Aerodactyl",
+        "rarity": "◊◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/211",
+        "cardName": "Snorlax",
+        "rarity": "◊◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/212",
+        "cardName": "Minccino",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/213",
+        "cardName": "Cinccino",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A1/214",
+        "cardName": "Wooloo",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/215",
+        "cardName": "Dubwool",
+        "rarity": "◊"
+      },
+      {
+        "code": "A1/216",
+        "cardName": "Helix Fossil",
+        "rarity": "◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/217",
+        "cardName": "Dome Fossil",
+        "rarity": "◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/218",
+        "cardName": "Old Amber",
+        "rarity": "◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/219",
+        "cardName": "Erika",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/220",
+        "cardName": "Misty",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/221",
+        "cardName": "Blaine",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/222",
+        "cardName": "Koga",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/223",
+        "cardName": "Giovanni",
+        "rarity": "◊◊",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/224",
+        "cardName": "Brock",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/225",
+        "cardName": "Sabrina",
+        "rarity": "◊◊",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/226",
+        "cardName": "Lt. Surge",
+        "rarity": "◊◊",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/227",
+        "cardName": "Bulbasaur",
+        "rarity": "☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/228",
+        "cardName": "Gloom",
+        "rarity": "☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/229",
+        "cardName": "Pinsir",
+        "rarity": "☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/230",
+        "cardName": "Charmander",
+        "rarity": "☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/231",
+        "cardName": "Rapidash",
+        "rarity": "☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/232",
+        "cardName": "Squirtle",
+        "rarity": "☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/233",
+        "cardName": "Gyarados",
+        "rarity": "☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/234",
+        "cardName": "Lapras",
+        "rarity": "☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/235",
+        "cardName": "Electrode",
+        "rarity": "☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/236",
+        "cardName": "Alakazam",
+        "rarity": "☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/237",
+        "cardName": "Slowpoke",
+        "rarity": "☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/238",
+        "cardName": "Diglett",
+        "rarity": "☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/239",
+        "cardName": "Cubone",
+        "rarity": "☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/240",
+        "cardName": "Nidoqueen",
+        "rarity": "☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/241",
+        "cardName": "Nidoking",
+        "rarity": "☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/242",
+        "cardName": "Golbat",
+        "rarity": "☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/243",
+        "cardName": "Weezing",
+        "rarity": "☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/244",
+        "cardName": "Dragonite",
+        "rarity": "☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/245",
+        "cardName": "Pidgeot",
+        "rarity": "☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/246",
+        "cardName": "Meowth",
+        "rarity": "☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/247",
+        "cardName": "Ditto",
+        "rarity": "☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/248",
+        "cardName": "Eevee",
+        "rarity": "☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/249",
+        "cardName": "Porygon",
+        "rarity": "☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/250",
+        "cardName": "Snorlax",
+        "rarity": "☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/251",
+        "cardName": "Venusaur ex",
+        "rarity": "☆☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/252",
+        "cardName": "Exeggutor ex",
+        "rarity": "☆☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/253",
+        "cardName": "Charizard ex",
+        "rarity": "☆☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/254",
+        "cardName": "Arcanine ex",
+        "rarity": "☆☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/255",
+        "cardName": "Moltres ex",
+        "rarity": "☆☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/256",
+        "cardName": "Blastoise ex",
+        "rarity": "☆☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/257",
+        "cardName": "Starmie ex",
+        "rarity": "☆☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/258",
+        "cardName": "Articuno ex",
+        "rarity": "☆☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/259",
+        "cardName": "Pikachu ex",
+        "rarity": "☆☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/260",
+        "cardName": "Zapdos ex",
+        "rarity": "☆☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/261",
+        "cardName": "Gengar ex",
+        "rarity": "☆☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/262",
+        "cardName": "Mewtwo ex",
+        "rarity": "☆☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/263",
+        "cardName": "Machamp ex",
+        "rarity": "☆☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/264",
+        "cardName": "Marowak ex",
+        "rarity": "☆☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/265",
+        "cardName": "Wigglytuff ex",
+        "rarity": "☆☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/266",
+        "cardName": "Erika",
+        "rarity": "☆☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/267",
+        "cardName": "Misty",
+        "rarity": "☆☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/268",
+        "cardName": "Blaine",
+        "rarity": "☆☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/269",
+        "cardName": "Koga",
+        "rarity": "☆☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/270",
+        "cardName": "Giovanni",
+        "rarity": "☆☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/271",
+        "cardName": "Brock",
+        "rarity": "☆☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/272",
+        "cardName": "Sabrina",
+        "rarity": "☆☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/273",
+        "cardName": "Lt. Surge",
+        "rarity": "☆☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/274",
+        "cardName": "Moltres ex",
+        "rarity": "☆☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/275",
+        "cardName": "Articuno ex",
+        "rarity": "☆☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/276",
+        "cardName": "Zapdos ex",
+        "rarity": "☆☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/277",
+        "cardName": "Gengar ex",
+        "rarity": "☆☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/278",
+        "cardName": "Machamp ex",
+        "rarity": "☆☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/279",
+        "cardName": "Wigglytuff ex",
+        "rarity": "☆☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/280",
+        "cardName": "Charizard ex",
+        "rarity": "☆☆☆",
+        "booster": "Charizard"
+      },
+      {
+        "code": "A1/281",
+        "cardName": "Pikachu ex",
+        "rarity": "☆☆☆",
+        "booster": "Pikachu"
+      },
+      {
+        "code": "A1/282",
+        "cardName": "Mewtwo ex",
+        "rarity": "☆☆☆",
+        "booster": "Mewtwo"
+      },
+      {
+        "code": "A1/283",
+        "cardName": "Mew",
+        "rarity": "☆☆☆"
+      },
+      {
+        "code": "A1/284",
+        "cardName": "Charizard ex",
+        "rarity": "♛"
+      },
+      {
+        "code": "A1/285",
+        "cardName": "Pikachu ex",
+        "rarity": "♛"
+      },
+      {
+        "code": "A1/286",
+        "cardName": "Mewtwo ex",
+        "rarity": "♛"
+      }
+    ]
+  },
+  "A1a": {
+    "name": "A1a",
+    "cards": [
+      {
+        "code": "A1a/1",
+        "cardName": "Exeggcute",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/2",
+        "cardName": "Exeggutor",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/3",
+        "cardName": "Celebi ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/4",
+        "cardName": "Snivy",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/5",
+        "cardName": "Servine",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/6",
+        "cardName": "Serperior",
+        "rarity": "◊◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/7",
+        "cardName": "Morelull",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/8",
+        "cardName": "Shiinotic",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/9",
+        "cardName": "Dhelmise",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/10",
+        "cardName": "Ponyta",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/11",
+        "cardName": "Rapidash",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/12",
+        "cardName": "Magmar",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/13",
+        "cardName": "Larvesta",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/14",
+        "cardName": "Volcarona",
+        "rarity": "◊◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/15",
+        "cardName": "Salandit",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/16",
+        "cardName": "Salazzle",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/17",
+        "cardName": "Magikarp",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/18",
+        "cardName": "Gyarados ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/19",
+        "cardName": "Vaporeon",
+        "rarity": "◊◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/20",
+        "cardName": "Finneon",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/21",
+        "cardName": "Lumineon",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/22",
+        "cardName": "Chewtle",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/23",
+        "cardName": "Drednaw",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/24",
+        "cardName": "Cramorant",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/25",
+        "cardName": "Pikachu",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/26",
+        "cardName": "Raichu",
+        "rarity": "◊◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/27",
+        "cardName": "Electabuzz",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/28",
+        "cardName": "Joltik",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/29",
+        "cardName": "Galvantula",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/30",
+        "cardName": "Dedenne",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/31",
+        "cardName": "Mew",
+        "rarity": "◊◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/32",
+        "cardName": "Mew ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/33",
+        "cardName": "Sigilyph",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/34",
+        "cardName": "Elgyem",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/35",
+        "cardName": "Beheeyem",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/36",
+        "cardName": "Flabébé",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/37",
+        "cardName": "Floette",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/38",
+        "cardName": "Florges",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/39",
+        "cardName": "Swirlix",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/40",
+        "cardName": "Slurpuff",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/41",
+        "cardName": "Mankey",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/42",
+        "cardName": "Primeape",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/43",
+        "cardName": "Geodude",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/44",
+        "cardName": "Graveler",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/45",
+        "cardName": "Golem",
+        "rarity": "◊◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/46",
+        "cardName": "Aerodactyl ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/47",
+        "cardName": "Marshadow",
+        "rarity": "◊◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/48",
+        "cardName": "Stonjourner",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/49",
+        "cardName": "Koffing",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/50",
+        "cardName": "Weezing",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/51",
+        "cardName": "Purrloin",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/52",
+        "cardName": "Liepard",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/53",
+        "cardName": "Venipede",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/54",
+        "cardName": "Whirlipede",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/55",
+        "cardName": "Scolipede",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/56",
+        "cardName": "Druddigon",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/57",
+        "cardName": "Pidgey",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/58",
+        "cardName": "Pidgeotto",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/59",
+        "cardName": "Pidgeot ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/60",
+        "cardName": "Tauros",
+        "rarity": "◊◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/61",
+        "cardName": "Eevee",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/62",
+        "cardName": "Chatot",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/63",
+        "cardName": "Old Amber",
+        "rarity": "◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/64",
+        "cardName": "Pokémon Flute",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/65",
+        "cardName": "Mythical Slab",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/66",
+        "cardName": "Budding Expeditioner",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/67",
+        "cardName": "Blue",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/68",
+        "cardName": "Leaf",
+        "rarity": "◊◊",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/69",
+        "cardName": "Exeggutor",
+        "rarity": "☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/70",
+        "cardName": "Serperior",
+        "rarity": "☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/71",
+        "cardName": "Salandit",
+        "rarity": "☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/72",
+        "cardName": "Vaporeon",
+        "rarity": "☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/73",
+        "cardName": "Dedenne",
+        "rarity": "☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/74",
+        "cardName": "Marshadow",
+        "rarity": "☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/75",
+        "cardName": "Celebi ex",
+        "rarity": "☆☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/76",
+        "cardName": "Gyarados ex",
+        "rarity": "☆☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/77",
+        "cardName": "Mew ex",
+        "rarity": "☆☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/78",
+        "cardName": "Aerodactyl ex",
+        "rarity": "☆☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/79",
+        "cardName": "Pidgeot ex",
+        "rarity": "☆☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/80",
+        "cardName": "Budding Expeditioner",
+        "rarity": "☆☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/81",
+        "cardName": "Blue",
+        "rarity": "☆☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/82",
+        "cardName": "Leaf",
+        "rarity": "☆☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/83",
+        "cardName": "Mew ex",
+        "rarity": "☆☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/84",
+        "cardName": "Aerodactyl ex",
+        "rarity": "☆☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/85",
+        "cardName": "Celebi ex",
+        "rarity": "☆☆☆",
+        "booster": "Mew"
+      },
+      {
+        "code": "A1a/86",
+        "cardName": "Mew ex",
+        "rarity": "♛",
+        "booster": "Mew"
+      }
+    ]
+  },
+  "A2": {
+    "name": "A2",
+    "cards": [
+      {
+        "code": "A2/1",
+        "cardName": "Oddish",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/2",
+        "cardName": "Gloom",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/3",
+        "cardName": "Bellossom",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/4",
+        "cardName": "Tangela",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/5",
+        "cardName": "Tangrowth",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/6",
+        "cardName": "Yanma",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/7",
+        "cardName": "Yanmega ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/8",
+        "cardName": "Roselia",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/9",
+        "cardName": "Roserade",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/10",
+        "cardName": "Turtwig",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/11",
+        "cardName": "Grotle",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/12",
+        "cardName": "Torterra",
+        "rarity": "◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/13",
+        "cardName": "Kricketot",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/14",
+        "cardName": "Kricketune",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/15",
+        "cardName": "Burmy",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/16",
+        "cardName": "Wormadam",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/17",
+        "cardName": "Combee",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/18",
+        "cardName": "Vespiquen",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/19",
+        "cardName": "Carnivine",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/20",
+        "cardName": "Leafeon",
+        "rarity": "◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/21",
+        "cardName": "Mow Rotom",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/22",
+        "cardName": "Shaymin",
+        "rarity": "◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/23",
+        "cardName": "Magmar",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/24",
+        "cardName": "Magmortar",
+        "rarity": "◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/25",
+        "cardName": "Slugma",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/26",
+        "cardName": "Magcargo",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/27",
+        "cardName": "Chimchar",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/28",
+        "cardName": "Monferno",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/29",
+        "cardName": "Infernape ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/30",
+        "cardName": "Heat Rotom",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/31",
+        "cardName": "Swinub",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/32",
+        "cardName": "Piloswine",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/33",
+        "cardName": "Mamoswine",
+        "rarity": "◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/34",
+        "cardName": "Regice",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/35",
+        "cardName": "Piplup",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/36",
+        "cardName": "Prinplup",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/37",
+        "cardName": "Empoleon",
+        "rarity": "◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/38",
+        "cardName": "Buizel",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/39",
+        "cardName": "Floatzel",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/40",
+        "cardName": "Shellos",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/41",
+        "cardName": "Gastrodon",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/42",
+        "cardName": "Finneon",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/43",
+        "cardName": "Lumineon",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/44",
+        "cardName": "Snover",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/45",
+        "cardName": "Abomasnow",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/46",
+        "cardName": "Glaceon",
+        "rarity": "◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/47",
+        "cardName": "Wash Rotom",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/48",
+        "cardName": "Frost Rotom",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/49",
+        "cardName": "Palkia ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/50",
+        "cardName": "Manaphy",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/51",
+        "cardName": "Magnemite",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/52",
+        "cardName": "Magneton",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/53",
+        "cardName": "Magnezone",
+        "rarity": "◊◊◊"
+      },
+      {
+        "code": "A2/54",
+        "cardName": "Voltorb",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/55",
+        "cardName": "Electrode",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/56",
+        "cardName": "Electabuzz",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/57",
+        "cardName": "Electivire",
+        "rarity": "◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/58",
+        "cardName": "Shinx",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/59",
+        "cardName": "Luxio",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/60",
+        "cardName": "Luxray",
+        "rarity": "◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/61",
+        "cardName": "Pachirisu ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/62",
+        "cardName": "Rotom",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/63",
+        "cardName": "Togepi",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/64",
+        "cardName": "Togetic",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/65",
+        "cardName": "Togekiss",
+        "rarity": "◊◊◊"
+      },
+      {
+        "code": "A2/66",
+        "cardName": "Misdreavus",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/67",
+        "cardName": "Mismagius ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/68",
+        "cardName": "Ralts",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/69",
+        "cardName": "Kirlia",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/70",
+        "cardName": "Duskull",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/71",
+        "cardName": "Dusclops",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/72",
+        "cardName": "Dusknoir",
+        "rarity": "◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/73",
+        "cardName": "Drifloon",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/74",
+        "cardName": "Drifblim",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/75",
+        "cardName": "Uxie",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/76",
+        "cardName": "Mesprit",
+        "rarity": "◊◊◊"
+      },
+      {
+        "code": "A2/77",
+        "cardName": "Azelf",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/78",
+        "cardName": "Giratina",
+        "rarity": "◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/79",
+        "cardName": "Cresselia",
+        "rarity": "◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/80",
+        "cardName": "Rhyhorn",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/81",
+        "cardName": "Rhydon",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/82",
+        "cardName": "Rhyperior",
+        "rarity": "◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/83",
+        "cardName": "Gligar",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/84",
+        "cardName": "Gliscor",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/85",
+        "cardName": "Hitmontop",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/86",
+        "cardName": "Nosepass",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/87",
+        "cardName": "Regirock",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/88",
+        "cardName": "Cranidos",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/89",
+        "cardName": "Rampardos",
+        "rarity": "◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/90",
+        "cardName": "Wormadam",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/91",
+        "cardName": "Riolu",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/92",
+        "cardName": "Lucario",
+        "rarity": "◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/93",
+        "cardName": "Hippopotas",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/94",
+        "cardName": "Hippowdon",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/95",
+        "cardName": "Gallade ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/96",
+        "cardName": "Murkrow",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/97",
+        "cardName": "Honchkrow",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/98",
+        "cardName": "Sneasel",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/99",
+        "cardName": "Weavile ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/100",
+        "cardName": "Poochyena",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/101",
+        "cardName": "Mightyena",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/102",
+        "cardName": "Stunky",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/103",
+        "cardName": "Skuntank",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/104",
+        "cardName": "Spiritomb",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/105",
+        "cardName": "Skorupi",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/106",
+        "cardName": "Drapion",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/107",
+        "cardName": "Croagunk",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/108",
+        "cardName": "Toxicroak",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/109",
+        "cardName": "Darkrai",
+        "rarity": "◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/110",
+        "cardName": "Darkrai ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/111",
+        "cardName": "Skarmory",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/112",
+        "cardName": "Registeel",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/113",
+        "cardName": "Shieldon",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/114",
+        "cardName": "Bastiodon",
+        "rarity": "◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/115",
+        "cardName": "Wormadam",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/116",
+        "cardName": "Bronzor",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/117",
+        "cardName": "Bronzong",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/118",
+        "cardName": "Probopass",
+        "rarity": "◊◊"
+      },
+      {
+        "code": "A2/119",
+        "cardName": "Dialga ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/120",
+        "cardName": "Heatran",
+        "rarity": "◊◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/121",
+        "cardName": "Gible",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/122",
+        "cardName": "Gabite",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/123",
+        "cardName": "Garchomp",
+        "rarity": "◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/124",
+        "cardName": "Lickitung",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/125",
+        "cardName": "Lickilicky ex",
+        "rarity": "◊◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/126",
+        "cardName": "Eevee",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/127",
+        "cardName": "Porygon",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/128",
+        "cardName": "Porygon2",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/129",
+        "cardName": "Porygon-Z",
+        "rarity": "◊◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/130",
+        "cardName": "Aipom",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/131",
+        "cardName": "Ambipom",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/132",
+        "cardName": "Starly",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/133",
+        "cardName": "Staravia",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/134",
+        "cardName": "Staraptor",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/135",
+        "cardName": "Bidoof",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/136",
+        "cardName": "Bibarel",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/137",
+        "cardName": "Buneary",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/138",
+        "cardName": "Lopunny",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/139",
+        "cardName": "Glameow",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/140",
+        "cardName": "Purugly",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/141",
+        "cardName": "Chatot",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/142",
+        "cardName": "Fan Rotom",
+        "rarity": "◊"
+      },
+      {
+        "code": "A2/143",
+        "cardName": "Regigigas",
+        "rarity": "◊◊◊"
+      },
+      {
+        "code": "A2/144",
+        "cardName": "Skull Fossil",
+        "rarity": "◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/145",
+        "cardName": "Armor Fossil",
+        "rarity": "◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/146",
+        "cardName": "Pokémon Communication",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/147",
+        "cardName": "Giant Cape",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/148",
+        "cardName": "Rocky Helmet",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/149",
+        "cardName": "Lum Berry",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/150",
+        "cardName": "Cyrus",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/151",
+        "cardName": "Team Galactic Grunt",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/152",
+        "cardName": "Cynthia",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/153",
+        "cardName": "Volkner",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/154",
+        "cardName": "Dawn",
+        "rarity": "◊◊",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/155",
+        "cardName": "Mars",
+        "rarity": "◊◊",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/156",
+        "cardName": "Tangrowth",
+        "rarity": "☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/157",
+        "cardName": "Combee",
+        "rarity": "☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/158",
+        "cardName": "Carnivine",
+        "rarity": "☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/159",
+        "cardName": "Shaymin",
+        "rarity": "☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/160",
+        "cardName": "Mamoswine",
+        "rarity": "☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/161",
+        "cardName": "Gastrodon",
+        "rarity": "☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/162",
+        "cardName": "Manaphy",
+        "rarity": "☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/163",
+        "cardName": "Shinx",
+        "rarity": "☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/164",
+        "cardName": "Rotom",
+        "rarity": "☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/165",
+        "cardName": "Drifloon",
+        "rarity": "☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/166",
+        "cardName": "Mesprit",
+        "rarity": "☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/167",
+        "cardName": "Giratina",
+        "rarity": "☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/168",
+        "cardName": "Cresselia",
+        "rarity": "☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/169",
+        "cardName": "Rhyperior",
+        "rarity": "☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/170",
+        "cardName": "Lucario",
+        "rarity": "☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/171",
+        "cardName": "Hippopotas",
+        "rarity": "☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/172",
+        "cardName": "Spiritomb",
+        "rarity": "☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/173",
+        "cardName": "Croagunk",
+        "rarity": "☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/174",
+        "cardName": "Heatran",
+        "rarity": "☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/175",
+        "cardName": "Garchomp",
+        "rarity": "☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/176",
+        "cardName": "Staraptor",
+        "rarity": "☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/177",
+        "cardName": "Bidoof",
+        "rarity": "☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/178",
+        "cardName": "Glameow",
+        "rarity": "☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/179",
+        "cardName": "Regigigas",
+        "rarity": "☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/180",
+        "cardName": "Yanmega ex",
+        "rarity": "☆☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/181",
+        "cardName": "Infernape ex",
+        "rarity": "☆☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/182",
+        "cardName": "Palkia ex",
+        "rarity": "☆☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/183",
+        "cardName": "Pachirisu ex",
+        "rarity": "☆☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/184",
+        "cardName": "Mismagius ex",
+        "rarity": "☆☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/185",
+        "cardName": "Gallade ex",
+        "rarity": "☆☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/186",
+        "cardName": "Weavile ex",
+        "rarity": "☆☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/187",
+        "cardName": "Darkrai ex",
+        "rarity": "☆☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/188",
+        "cardName": "Dialga ex",
+        "rarity": "☆☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/189",
+        "cardName": "Lickilicky ex",
+        "rarity": "☆☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/190",
+        "cardName": "Cyrus",
+        "rarity": "☆☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/191",
+        "cardName": "Team Galactic Grunt",
+        "rarity": "☆☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/192",
+        "cardName": "Cynthia",
+        "rarity": "☆☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/193",
+        "cardName": "Volkner",
+        "rarity": "☆☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/194",
+        "cardName": "Dawn",
+        "rarity": "☆☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/195",
+        "cardName": "Mars",
+        "rarity": "☆☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/196",
+        "cardName": "Yanmega ex",
+        "rarity": "☆☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/197",
+        "cardName": "Infernape ex",
+        "rarity": "☆☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/198",
+        "cardName": "Pachirisu ex",
+        "rarity": "☆☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/199",
+        "cardName": "Mismagius ex",
+        "rarity": "☆☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/200",
+        "cardName": "Gallade ex",
+        "rarity": "☆☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/201",
+        "cardName": "Weavile ex",
+        "rarity": "☆☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/202",
+        "cardName": "Darkrai ex",
+        "rarity": "☆☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/203",
+        "cardName": "Lickilicky ex",
+        "rarity": "☆☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/204",
+        "cardName": "Palkia ex",
+        "rarity": "☆☆☆",
+        "booster": "Palkia"
+      },
+      {
+        "code": "A2/205",
+        "cardName": "Dialga ex",
+        "rarity": "☆☆☆",
+        "booster": "Dialga"
+      },
+      {
+        "code": "A2/206",
+        "cardName": "Palkia ex",
+        "rarity": "♛"
+      },
+      {
+        "code": "A2/207",
+        "cardName": "Dialga ex",
+        "rarity": "♛"
+      }
+    ]
+  },
+  "P-A": {
+    "name": "P-A",
+    "cards": [
+      {
+        "code": "P-A/1",
+        "cardName": "Potion"
+      },
+      {
+        "code": "P-A/2",
+        "cardName": "X Speed"
+      },
+      {
+        "code": "P-A/3",
+        "cardName": "Hand Scope"
+      },
+      {
+        "code": "P-A/4",
+        "cardName": "Pokédex"
+      },
+      {
+        "code": "P-A/5",
+        "cardName": "Poké Ball"
+      },
+      {
+        "code": "P-A/6",
+        "cardName": "Red Card"
+      },
+      {
+        "code": "P-A/7",
+        "cardName": "Professor's Research"
+      },
+      {
+        "code": "P-A/8",
+        "cardName": "Pokédex"
+      },
+      {
+        "code": "P-A/9",
+        "cardName": "Pikachu"
+      },
+      {
+        "code": "P-A/10",
+        "cardName": "Mewtwo"
+      },
+      {
+        "code": "P-A/11",
+        "cardName": "Chansey"
+      },
+      {
+        "code": "P-A/12",
+        "cardName": "Meowth"
+      },
+      {
+        "code": "P-A/13",
+        "cardName": "Butterfree"
+      },
+      {
+        "code": "P-A/14",
+        "cardName": "Lapras ex"
+      },
+      {
+        "code": "P-A/15",
+        "cardName": "Pikachu"
+      },
+      {
+        "code": "P-A/16",
+        "cardName": "Clefairy"
+      },
+      {
+        "code": "P-A/17",
+        "cardName": "Mankey"
+      },
+      {
+        "code": "P-A/18",
+        "cardName": "Venusaur"
+      },
+      {
+        "code": "P-A/19",
+        "cardName": "Greninja"
+      },
+      {
+        "code": "P-A/20",
+        "cardName": "Haunter"
+      },
+      {
+        "code": "P-A/21",
+        "cardName": "Onix"
+      },
+      {
+        "code": "P-A/22",
+        "cardName": "Jigglypuff"
+      },
+      {
+        "code": "P-A/23",
+        "cardName": "Bulbasaur"
+      },
+      {
+        "code": "P-A/24",
+        "cardName": "Magnemite"
+      },
+      {
+        "code": "P-A/25",
+        "cardName": "Moltres ex"
+      },
+      {
+        "code": "P-A/26",
+        "cardName": "Pikachu"
+      },
+      {
+        "code": "P-A/27",
+        "cardName": "Snivy"
+      },
+      {
+        "code": "P-A/28",
+        "cardName": "Volcarona"
+      },
+      {
+        "code": "P-A/29",
+        "cardName": "Blastoise"
+      },
+      {
+        "code": "P-A/30",
+        "cardName": "Eevee"
+      },
+      {
+        "code": "P-A/31",
+        "cardName": "Cinccino"
+      },
+      {
+        "code": "P-A/32",
+        "cardName": "Charmander"
+      },
+      {
+        "code": "P-A/33",
+        "cardName": "Squirtle"
+      },
+      {
+        "code": "P-A/34",
+        "cardName": "Piplup"
+      },
+      {
+        "code": "P-A/35",
+        "cardName": "Turtwig"
+      },
+      {
+        "code": "P-A/36",
+        "cardName": "Electivire"
+      },
+      {
+        "code": "P-A/37",
+        "cardName": "Cresselia ex"
+      },
+      {
+        "code": "P-A/38",
+        "cardName": "Misdreavus"
+      },
+      {
+        "code": "P-A/39",
+        "cardName": "Skarmory"
+      },
+      {
+        "code": "P-A/40",
+        "cardName": "Chimchar"
+      },
+      {
+        "code": "P-A/41",
+        "cardName": "Togepi"
+      }
+    ]
+  }
+}
