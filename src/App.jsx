@@ -5,7 +5,7 @@ import {
   saveCollection,
   updateCardQuantity,
 } from "./services/CollectionService";
-import { encodeCollection, decodeCollection } from "./services/EncodingService";
+import { encodeCollection } from "./services/EncodingService";
 
 import CardGrid from "./components/CardGrid";
 import TinderView from "./components/TinderView";
@@ -38,13 +38,14 @@ export default function App() {
     setCollection((prev) => updateCardQuantity(prev, cardCode, quantity));
   }
 
-  // 📋 **Copy Collection to Clipboard**
   function handleCopyToClipboard() {
     const jsonStr = JSON.stringify(encodeCollection(collection, cards));
-    navigator.clipboard.writeText(jsonStr).then(() => alert("Collection copied to clipboard!"));
+    navigator.clipboard
+      .writeText(jsonStr)
+      .then(() => alert("Collection copied to clipboard!"));
   }
 
-  // **Filter Cards for Grid View** (optional pre-filter if you want)
+  // **Optional pre-filter for Grid if you want** (already done inside <CardGrid />)
   const filteredCards = cards.filter((card) => {
     if (searchQuery) {
       const q = searchQuery.toLowerCase();
@@ -67,23 +68,25 @@ export default function App() {
     <div className="bg-gray-100 min-h-screen">
       {/* --- Main Nav Bar (sticky) --- */}
       <div className="fixed top-0 left-0 w-full bg-white shadow-md z-50">
-        <div className="max-w-4xl mx-auto p-3 flex flex-wrap items-center justify-between">
+        <div className="max-w-4xl mx-auto p-3 flex flex-wrap items-center justify-between gap-2">
           {/* Title */}
-          <h1 className="text-xl font-bold tracking-wide text-blue-600">
-            Pokémon TCG Collection
+          <h1 className="text-xl font-bold tracking-wide text-blue-600 flex-shrink-0">
+            Pokémon TCG
           </h1>
 
-          {/* View Mode Selection */}
-          <div className="flex gap-2">
+          {/* View Mode Selection (wraps on mobile) */}
+          <div className="flex flex-wrap gap-1">
             {["grid", "tinder", "trade", "stats", "importExport"].map((view) => (
               <button
                 key={view}
                 onClick={() => setMode(view)}
-                className={`px-3 py-1 rounded ${
+                className={`px-3 py-1 rounded text-sm sm:text-base ${
                   mode === view ? "bg-blue-500 text-white" : "bg-gray-200 hover:bg-gray-300"
                 }`}
               >
-                {view === "importExport" ? "Import/Export" : view.charAt(0).toUpperCase() + view.slice(1)}
+                {view === "importExport"
+                  ? "Import"
+                  : view.charAt(0).toUpperCase() + view.slice(1)}
               </button>
             ))}
           </div>
@@ -91,9 +94,9 @@ export default function App() {
           {/* Copy to Clipboard */}
           <button
             onClick={handleCopyToClipboard}
-            className="px-3 py-1 bg-green-500 text-white rounded hover:bg-green-600"
+            className="px-2 py-1 text-sm sm:text-base bg-green-500 text-white rounded hover:bg-green-600"
           >
-            📋 Copy Collection
+            📋
           </button>
         </div>
       </div>
@@ -119,23 +122,11 @@ export default function App() {
             setSearchQuery={setSearchQuery}
           />
         )}
-
         {mode === "tinder" && (
-          <TinderView
-            cards={cards}
-            collection={collection}
-            onUpdate={handleUpdate}
-          />
+          <TinderView cards={cards} collection={collection} onUpdate={handleUpdate} />
         )}
-        {mode === "trade" && (
-          <TradeView
-            yourCollection={collection}
-            cards={cards}
-          />
-        )}
-        {mode === "stats" && (
-          <StatsView cards={cards} collection={collection} />
-        )}
+        {mode === "trade" && <TradeView yourCollection={collection} cards={cards} />}
+        {mode === "stats" && <StatsView cards={cards} collection={collection} />}
         {mode === "importExport" && (
           <ImportExportView
             cards={cards}

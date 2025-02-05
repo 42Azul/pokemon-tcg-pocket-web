@@ -21,10 +21,10 @@ export default function CardGrid({
 }) {
   const [selectedBoosters, setSelectedBoosters] = useState({});
 
-  // Filter logic
-  let finalCards = [...cards];
+  // Example booster-based filtering (if needed)
   const boostersChosen = Object.keys(selectedBoosters).filter((b) => selectedBoosters[b]);
 
+  let finalCards = [...cards];
   if (selectedSet !== "All") {
     finalCards = finalCards.filter((c) => c.set === selectedSet);
   }
@@ -33,8 +33,8 @@ export default function CardGrid({
   }
   if (searchQuery) {
     const q = searchQuery.toLowerCase();
-    finalCards = finalCards.filter((card) =>
-      card.cardName.toLowerCase().includes(q) || card.code.toLowerCase().includes(q)
+    finalCards = finalCards.filter(
+      (card) => card.cardName.toLowerCase().includes(q) || card.code.toLowerCase().includes(q)
     );
   }
   if (hideZero) {
@@ -44,26 +44,16 @@ export default function CardGrid({
     finalCards = finalCards.filter((c) => (collection[c.code] || 0) === 0);
   }
   if (sortMode === "quantity") {
-    finalCards.sort((a, b) => {
-      const qa = collection[a.code] || 0;
-      const qb = collection[b.code] || 0;
-      return qb - qa; // descending
-    });
+    finalCards.sort((a, b) => (collection[b.code] || 0) - (collection[a.code] || 0));
   }
 
-  // We'll dynamically set the grid columns
   const gridStyle = {
     gridTemplateColumns: `repeat(auto-fill, minmax(${cardWidth}px, 1fr))`,
   };
 
   return (
     <div className="relative">
-      {/* 
-        Sticky container for GridBar:
-        - `top-[64px]` (for example) offsets it beneath your main navbar 
-          (adjust as needed: 64, 72, 80, etc.).
-        - `z-20` ensures it stacks above grid items but below the main nav if needed.
-      */}
+      {/* GridBar, sticky below main nav */}
       <div className="sticky top-[64px] z-20 bg-gray-100 pb-2">
         <GridBar
           selectedSet={selectedSet}
@@ -78,15 +68,13 @@ export default function CardGrid({
           setSearchQuery={setSearchQuery}
           cardWidth={cardWidth}
           setCardWidth={setCardWidth}
-
-          // Booster states
-          cards={cards}
+          // Booster states (optional)
           selectedBoosters={selectedBoosters}
           setSelectedBoosters={setSelectedBoosters}
         />
       </div>
 
-      {/* Cards Section */}
+      {/* Cards */}
       {finalCards.length === 0 ? (
         <p className="text-center text-gray-500 mt-4">No cards match your filters.</p>
       ) : (

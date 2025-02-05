@@ -20,7 +20,7 @@ export default function GridBar({
         {/* Search */}
         <input
           type="text"
-          className="border rounded p-1 w-48"
+          className="border rounded p-1 w-40"
           placeholder="Search name or code..."
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
@@ -40,21 +40,21 @@ export default function GridBar({
         </select>
 
         {/* Hide Zero / Hide Completed */}
-        <label>
+        <label className="flex items-center space-x-1">
           <input
             type="checkbox"
             checked={hideZero}
             onChange={(e) => setHideZero(e.target.checked)}
           />
-          <span className="ml-1">Hide Zero</span>
+          <span>Hide Zero</span>
         </label>
-        <label>
+        <label className="flex items-center space-x-1">
           <input
             type="checkbox"
             checked={hideCompleted}
             onChange={(e) => setHideCompleted(e.target.checked)}
           />
-          <span className="ml-1">Hide Completed</span>
+          <span>Hide Completed</span>
         </label>
 
         {/* Sort Mode */}
@@ -68,8 +68,8 @@ export default function GridBar({
         </select>
 
         {/* Card Size Slider */}
-        <div>
-          <label className="mr-2">Card Size: {cardWidth}px</label>
+        <div className="flex items-center space-x-2">
+          <label className="whitespace-nowrap">Card Size: {cardWidth}px</label>
           <input
             type="range"
             min={100}
